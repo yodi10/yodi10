@@ -1,4 +1,4 @@
-getgenv().keytoclick = "Yodi"
+getgenv().keytoclick = "Q"
 tool = Instance.new("Tool")
 tool.RequiresHandle = false
 tool.Name = keytoclick
