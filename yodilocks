@@ -14,6 +14,8 @@ game.StarterGui:SetCore("SendNotification", {
 
 })
 
+
+
 local player = game.Players.LocalPlayer
 
 local function connectCharacterAdded()
